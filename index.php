@@ -1,6 +1,11 @@
 <!-- INSERT INTO users (username, pwd, email) VALUES ('Krossing', 'dani123', 'johndoe@gmail.com'); -->
 <!-- UPDATE users SET username = 'basseIsCool', pwd = 'basse456' WHERE id = 1; -->
 <!-- UPDATE users SET username = 'basseIsCool', pwd = 'basse456' WHERE id = 1; -->
+<?php
+require_once 'config.php';
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
